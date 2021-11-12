@@ -1,6 +1,6 @@
 Hiiiiiii I'm Johnny an Frontend Engineer, a11y advocate, & speaker.
 
-[](https://media.giphy.com/media/26uf5uCk2sU93znDW/giphy.gif)
+[hi](https://media.giphy.com/media/26uf5uCk2sU93znDW/giphy.gif)
 
 I've been coding the internet for the past 10 years and working all over the world. Over that time, I’ve managed people, been a tech lead; now, I love being an individual contributor and calling the Orange County home!
 
